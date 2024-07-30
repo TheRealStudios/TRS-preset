@@ -18,8 +18,8 @@ Mechanic: Need your car fixed? Visit our mechanics!
 
 🚀 Get Started Quickly:
 
-Install / drag & drop into server resource folder
-Go to ads_config.json and customize your ad's
-ensure TRS-preset
-go to console and look for "Ads config loaded successfully."
-Your done!
+- Install / drag & drop into server resource folder
+- Go to ads_config.json and customize your ad's
+- ensure TRS-preset
+- go to console and look for "Ads config loaded successfully."
+# Your done!

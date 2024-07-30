@@ -1,0 +1,5 @@
+[
+    { "id": 1, "department": "Police", "message": "^3Join the police force today!" },
+    { "id": 2, "department": "EMS", "message": "^2Emergency services are hiring!" },
+    { "id": 3, "department": "Mechanic", "message": "^4Need your car fixed? Visit our mechanics!" }
+]

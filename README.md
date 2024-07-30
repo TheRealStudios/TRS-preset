@@ -25,4 +25,7 @@
 - go to console and look for "Ads config loaded successfully."
 # Your done!
 
-# [PREVIEW](https://www.youtube.com/watch?v=b_dwJuk4zz0) 
+# LINKS
+### [PREVIEW](https://www.youtube.com/watch?v=b_dwJuk4zz0) 
+### [DISCORD](https://discord.gg/hEkp4vMn8W)
+### [WEBSITE](https://therealstudios.xyz)

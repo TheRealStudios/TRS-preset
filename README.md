@@ -24,3 +24,5 @@
 - ensure TRS-preset
 - go to console and look for "Ads config loaded successfully."
 # Your done!
+
+# [PREVIEW](https://www.youtube.com/watch?v=b_dwJuk4zz0) 

@@ -10,6 +10,8 @@
 - 🛠️ Perfect for New Devs: With clear instructions and a user-friendly command, you'll be up and running in no time.
 - 🎨 Eye-Catching Colors: Use vibrant color codes to make your ads stand out in the chat.
 - 📢 Simple Commands: Just type /ad [id] [location or postal] to broadcast your message to everyone.
+
+
 💬 Example Ads:
 - Police: Join the police force today!
 - EMS: Emergency services are hiring!
